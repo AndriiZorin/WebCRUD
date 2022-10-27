@@ -12,7 +12,7 @@ Tested on:
  
 To deploy application through the command line, use the command: **mvn tomcat7:deploy**
 
-[Script for creating and filling a database](docs/database.sql)
+[Database script](docs/database.sql)
 
 [The task](docs/TestTask.pdf)
 
