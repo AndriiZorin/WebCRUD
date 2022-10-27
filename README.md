@@ -2,7 +2,7 @@
 
 **Simple CRUD (Create, Read, Update and Delete) web-application with filter (by name) and pagination**
 
-Technologies:
+Techs:
   * backend: Spring, Hibernate
   * frontend: Spring MVC, HTML5, CSS3
 
